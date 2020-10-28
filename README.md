@@ -1,1 +1,2 @@
-# -computer_networks
+# computer_networks
+Здесь вычислительные системы и компьютерные сети
