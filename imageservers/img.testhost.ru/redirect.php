@@ -19,7 +19,8 @@
 		
         
 		$imgserver = $host[0]['servername'];
-    
-		header("Location: http://first.img.server.ru/"); 
+    		$servername = 'Location: http://'.$imgserver.'/';
+			
+		header($servername); 
     echo $imgserver;
 }
